@@ -2,6 +2,9 @@
 
 Welcome to the Automated Hydroponics Dozer project! This system leverages Arduino, Python, and solenoid valves to automate hydroponic systems, monitoring pH and TDS levels and adjusting nutrient delivery accordingly.
 
+![Uploading image.png…]()
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
